@@ -42,7 +42,7 @@ also you need a Chrome and ChromeDriver:</br>
 
 You can get Chromedriver from [here](http://chromedriver.storage.googleapis.com/index.html).
 
-**Make sure the version of Chrome Driver is matched with your Chrome.**
+**Make sure the version of Chrome Driver is matched with your Chrome version.**
 
 After download Webdriver, remember add it to path. If you're using Linux, run this:
 
