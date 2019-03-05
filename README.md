@@ -20,9 +20,10 @@ When you use some weibo account to [login weibo.cn](https://passport.weibo.cn/si
 
 ### Pre-requirements
 
-- Install requests
+- Install requirements.txt
 - Install Chrome
 - Install ChromeDriver
+- Unpackage ChromeDriver and add it to your PATH
 
 
 Before using this program to crack CATCHA, It's assumed you have install python(>3.5) in your system.</br>
