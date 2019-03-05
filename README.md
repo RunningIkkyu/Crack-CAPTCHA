@@ -27,13 +27,13 @@ When you use some weibo account to [login weibo.cn](https://passport.weibo.cn/si
 
 
 Before using this program to crack CATCHA, It's assumed you have install python(>3.5) in your system.</br>
-These package will be reqired:
-selenium==3.141.0
-pymongo==3.7.2
-PyAutoGUI==0.9.41
-
-You can install requirements by this:
-
+These package will be reqired:</br>
+selenium==3.141.0</br>
+pymongo==3.7.2</br>
+PyAutoGUI==0.9.41</br>
+</br>
+You can install requirements by this:</br>
+</br>
 ```
 pip install -r requirements.txt
 ```
